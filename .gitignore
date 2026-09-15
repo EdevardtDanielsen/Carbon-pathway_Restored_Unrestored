@@ -1,0 +1,12 @@
+sem_output/
+__pycache__/
+*.pyc
+Rplots.pdf
+.Rhistory
+.RData
+.Rproj.user/
+Thumbs.db
+.DS_Store
+~$*
+*.pptx
+DRAFT_*.txt
